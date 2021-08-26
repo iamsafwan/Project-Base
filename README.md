@@ -1,18 +1,16 @@
-# Welcome to **Project Base** AKA D.A.R.S
+# Welcome to **Project Base** aka D.A.R.S
 
 ## Dummy repository
 
-There will be no source code uploaded to this repository due to NDA
+**NO Source code** will be uploaded to this repository due to N.D.A
 
 The repository will be used to keep a record of ambiguous progress.
 
-
-
 ### Current Version 16.0.0
 
-### Pending:
+#### Pending:
 - [ ] Implement Microservices architecture
-- [ ] Map out and create a json tree
+- [ ] Map out and create a JSON tree
 
 ### Contact
 
