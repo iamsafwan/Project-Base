@@ -12,6 +12,6 @@ Please 📫 me at my [Personal email](mailto:safwanzk@outlook.com?subject=From%2
 ### Current Version 16.0.0
 
 ### Pending:
-- [] Implement Microservices architecture
-- [] Map out and create a json tree
+- [ ] Implement Microservices architecture
+- [ ] Map out and create a json tree
 
